@@ -4,7 +4,7 @@ A feedforward neural network built with PyTorch that classifies iris flowers int
 
 ## Overview
 
-This project trains a 2-hidden-layer artificial neural network on the classic [Iris dataset](https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/iris.csv). The model achieves 30/30 correct predictions on the test set (100% test accuracy).
+This project trains a 2-hidden-layer artificial neural network on the classic [Iris dataset](https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/iris.csv). The model achieved 30/30 correct predictions on the test set (100% test accuracy).
 
 ## Model Architecture
 
